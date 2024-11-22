@@ -1,0 +1,1 @@
+import{_ as t,o,c as e}from"./app-DQ0_HYRd.js";const s={};function r(a,m){return o(),e("div")}const n=t(s,[["render",r],["__file","impostors.html.vue"]]),l=JSON.parse('{"path":"/roles/Impostors/Impostors.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"roles/Impostors/Impostors.md"}');export{n as comp,l as data};

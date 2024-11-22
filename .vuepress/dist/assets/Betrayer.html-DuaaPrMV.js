@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./app-DQ0_HYRd.js";const a={};function o(s,c){return t(),r("div")}const n=e(a,[["render",o],["__file","Betrayer.html.vue"]]),_=JSON.parse('{"path":"/roles/Neutrals/Chaos/Betrayer.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"roles/Neutrals/Chaos/Betrayer.md"}');export{n as comp,_ as data};

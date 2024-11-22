@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s}from"./app-DQ0_HYRd.js";const o={};function l(r,a){return t(),s("div")}const i=e(o,[["render",l],["__file","Illusionist.html.vue"]]),c=JSON.parse('{"path":"/roles/Crewmates/Power/Illusionist.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"roles/Crewmates/Power/Illusionist.md"}');export{i as comp,c as data};
