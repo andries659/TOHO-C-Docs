@@ -1,0 +1,3 @@
+import comp from "C:/Users/User/Desktop/vuepress-starter/docs/.vuepress/.temp/pages/index.html.vue"
+const data = JSON.parse("{\"path\":\"/\",\"title\":\"Home\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Home\",\"home\":true,\"heroImage\":\"/images/home.jpg\",\"heroText\":null,\"tagline\":null,\"footer\":\"© 2024 TOHO-C - All Rights Reserved\"},\"headers\":[{\"level\":2,\"title\":\"Overview\",\"slug\":\"overview\",\"link\":\"#overview\",\"children\":[]}],\"git\":{\"updatedTime\":1731789808000,\"contributors\":[{\"name\":\"AndriesWorks\",\"email\":\"andries46565@gmail.com\",\"commits\":1,\"url\":\"https://github.com/AndriesWorks\"}]},\"filePathRelative\":\"README.md\"}")
+export { comp, data }

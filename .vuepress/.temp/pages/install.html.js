@@ -1,0 +1,3 @@
+import comp from "C:/Users/User/Desktop/vuepress-starter/docs/.vuepress/.temp/pages/install.html.vue"
+const data = JSON.parse("{\"path\":\"/install.html\",\"title\":\"Install\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Install\"},\"headers\":[{\"level\":2,\"title\":\"The Installation Guide\",\"slug\":\"the-installation-guide\",\"link\":\"#the-installation-guide\",\"children\":[]}],\"git\":{\"updatedTime\":1731789808000,\"contributors\":[{\"name\":\"AndriesWorks\",\"email\":\"andries46565@gmail.com\",\"commits\":1,\"url\":\"https://github.com/AndriesWorks\"}]},\"filePathRelative\":\"install.md\"}")
+export { comp, data }

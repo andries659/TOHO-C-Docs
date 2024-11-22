@@ -1,0 +1,3 @@
+import comp from "C:/Users/User/Desktop/vuepress-starter/docs/.vuepress/.temp/pages/abouts/about/abouttheMod.html.vue"
+const data = JSON.parse("{\"path\":\"/abouts/about/abouttheMod.html\",\"title\":\"About The Mod\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"About The Mod\",\"prev\":\"/abouts/about.html\"},\"headers\":[{\"level\":2,\"title\":\"The Mission For TOHO-C\",\"slug\":\"the-mission-for-toho-c\",\"link\":\"#the-mission-for-toho-c\",\"children\":[]},{\"level\":2,\"title\":\"What The Mod Offers\",\"slug\":\"what-the-mod-offers\",\"link\":\"#what-the-mod-offers\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"abouts/about/abouttheMod.md\"}")
+export { comp, data }

@@ -1,0 +1,3 @@
+import comp from "C:/Users/User/Desktop/vuepress-starter/docs/.vuepress/.temp/pages/roles/Crewmates/Crewmates.html.vue"
+const data = JSON.parse("{\"path\":\"/roles/Crewmates/Crewmates.html\",\"title\":\"Crewmate Roles\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Crewmate Roles\",\"prev\":\"/roles.html\",\"next\":\"/roles.html\"},\"headers\":[{\"level\":2,\"title\":\"Support\",\"slug\":\"support\",\"link\":\"#support\",\"children\":[]},{\"level\":2,\"title\":\"Power\",\"slug\":\"power\",\"link\":\"#power\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"roles/Crewmates/Crewmates.md\"}")
+export { comp, data }
